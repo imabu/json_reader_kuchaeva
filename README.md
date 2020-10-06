@@ -1,4 +1,4 @@
-# json_reader_kuchaeva
+# Homework at Data Engineer course 
 
-Small homework at Data Engineer course 
+Reading json into RDD
 
